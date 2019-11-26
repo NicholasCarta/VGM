@@ -1,2 +1,3 @@
 # VGM
-Video Game Marketplace and Management System
+This is my prokect for Web Dev Class
+Video game marketplace and library system
