@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+  
+  <link rel="stylesheet" type="text/css" href=vgmlayout.css>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+
+<body>
+
+<header>
+  <div>
+  <nav>
+      <ul>
+        <li class=active>
+          <a href="VGM.html">Home</a>
+        </li>
+        <li>
+          <a  href="Marketplace.html">Marketplace</a>
+        </li>
+        <li>
+          <a href="Library.html">Library</a>
+        </li>
+        <li>
+        <a href="Reviews.html">Reviews</a>
+        </li>
+        <li class="last-of-type">
+            <a href="about.html">About</a>
+        </li>
+      </ul>
+  </nav>
+</div>
+
+
+
+<div class="header">
+  <h1 class="text">Welcome to the Video Game Marketplace and Library!</h1>
+  <p class="text">VGM is an all in one PC gaming platform. 
+    That means VGM operates as a marketplace, library and game review site!</p>
+</div>
+
+</header>
+
+<div class="body">
+<div class="marketplacebox"><a class="links" href="NewMarketPlace.php">
+  <h1 class="text">Marketplace</h1>
+  <p class="text">
+    The marketplace tab allows you to browse games currently avaialble on the market. You can view price, rating, and genre
+    of all the games in the marketplace.
+  </p></a>
+</div>
+
+<div class="librarybox"><a class="links" href="Library.php">
+    <h1 class="text">Library</h1>
+    <p class="text">
+      Welcome to the Video Game Management and Library system!
+      Here you can browse the marketplace, check out reviews, and add games to your library.
+      You can also leave reviews of games that you have added to your library.
+    </p></a>
+  </div>
+
+
+<footer class="footer"> 
+
+    <p class="footer">Video Game Marketplace and Management System</p>
+    <p class ="footer">Created by: <br> Nicholas Carta <br> & <br> Nicholas Sims</p>
+    
+    </footer>
+
+</html>

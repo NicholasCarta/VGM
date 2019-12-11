@@ -1,0 +1,21 @@
+Marketplace Page (Games and Reviews Table)
+
+    [x] List all games on the page as rows in a table
+    [x] Sort the list with a button by name, genre, release date, and price
+    [x] list games from user input only when under a certain amount on $$
+    [x] list games that fall under a specific genre only
+
+    [?] Clickable link to a game -- for reviews
+    [x] Display games on same page as Marketplace form?
+
+Login Page (input user id and password to enter library page)
+
+
+Reviews page
+
+Greet user on sign in at home page
+
+
+Try to break that shit
+
+Code cleanup and comments
